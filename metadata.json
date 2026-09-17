@@ -1,0 +1,6 @@
+{
+  "name": "SG Carpark V1 vs V2 Comparison",
+  "description": "Side-by-side comparison and UX/architecture analysis between Singapore Carpark Rates V1 and V2 improved edition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
